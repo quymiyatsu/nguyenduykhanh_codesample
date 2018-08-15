@@ -1,0 +1,22 @@
+[
+  {
+    "color": "Student",
+    "value": "#f00"
+  },
+  {
+    "color": "Marketing",
+    "value": "#f00"
+  },
+  {
+    "color": "Dev",
+    "value": "#f00"
+  },
+  {
+    "color": "Doctor",
+    "value": "#f00"
+  },
+  {
+    "color": "Teacher",
+    "value": "#f00"
+  }
+]

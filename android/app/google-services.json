@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "929696926652",
+    "firebase_url": "https://careerladder-eef7a.firebaseio.com",
+    "project_id": "careerladder-eef7a",
+    "storage_bucket": "careerladder-eef7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929696926652:android:1a01747468f77f3e",
+        "android_client_info": {
+          "package_name": "com.careerladder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929696926652-pt637kaiqmti70c20iqrrpskl425deba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqG_UAPBfOtOI0XgwmABar37nlu0Fz3Go"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
